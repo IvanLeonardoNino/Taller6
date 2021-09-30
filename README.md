@@ -1,5 +1,5 @@
 # Taller-6
-<p> Cuarto taller programación en la web <p>
+<p> Sexto taller programación en la web <p>
 <h1> Integrantes: </h1>
 
 <p> Cristian David Tafur campo 2191970 <p>
